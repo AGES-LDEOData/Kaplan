@@ -1,9 +1,10 @@
 {
     "AX": {
-        "error": 0.0,
-        "fit": "default",
-        "references": [],
-        "value": 1.0
+        "error": 0.01,
+        "fit": "bulk_edit",
+        "references": "",
+        "reviewed": true,
+        "value": 0.01
     },
     "H1": {
         "error": 0.0,
